@@ -1,0 +1,1 @@
+This is an approach of oversampling mushrooms (from kaggle) in order to completely remove those who are poisonous. There are some that are not poisonous but have been treated as dangerous. Since we are trying to save... lives, we do not really care if some of these have been counted as dangerous even they aren't.
